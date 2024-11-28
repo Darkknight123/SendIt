@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "105942139739",
+    "project_id": "africas-talking-send-it",
+    "storage_bucket": "africas-talking-send-it.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105942139739:android:a0a23d6dc7f80fe3a8507e",
+        "android_client_info": {
+          "package_name": "com.example.sendit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105942139739-3lv275dqv9ub5bi0mkc9nk51nhcgeqdq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sendit",
+            "certificate_hash": "bfec3167bb2968ffcbde77ef4b5a4c0b1985bc36"
+          }
+        },
+        {
+          "client_id": "105942139739-um0a1035tmpq5c9hgmpq7r2ndrmcuc0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvwjk1mtgypFixwVAvaL8Pg5SgKETvt5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105942139739-um0a1035tmpq5c9hgmpq7r2ndrmcuc0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
